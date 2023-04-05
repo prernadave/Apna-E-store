@@ -28,23 +28,24 @@ Visit : https://apnaestore.netlify.app/
 ---
 
 - ### Homepage
+<img src="https://i.ibb.co/r5fxc8d/apna-e-store.png" alt="apna-e-store" border="0">
 
 
 
-- ### Navbar
+- ### sign up Page
 
+<img src="https://i.ibb.co/M264J5X/signjup-apna.png" alt="signjup-apna" border="0">
 
+- ### sign in Page
 
-- ### User sign up Page
-
-
-
-- ### User sign in Page
-
-
+<img src="https://i.ibb.co/34d2rt7/Login-apna.png" alt="Login-apna" border="0">
 
 - ### Footer Page
+ 
+ 
+<img src="https://i.ibb.co/7KGZhr7/apna-e-store-footer.png" alt="apna-e-store-footer" border="0">
 
+- ### Admin Page
 
 
   
